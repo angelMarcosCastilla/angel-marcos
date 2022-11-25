@@ -1,9 +1,9 @@
 
 <h1 align="center">Hello👋! I'm Angel Marcos.<h1/>
-<a href="https://github.com/angelMarcosCastilla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />  &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelMarcosCastilla&theme=buefy&layout=compact" />
-</a>
+<p align="center">
+  <img  height="170px" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />  &nbsp; &nbsp;
+  <img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelMarcosCastilla&theme=buefy&layout=compact" />
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <p>I am a web developer, self-taught. I consider myself a person who has great capacity for teamwork.</p>
