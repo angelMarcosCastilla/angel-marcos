@@ -29,7 +29,7 @@
   <a href="https://angel-marcos-portafolio.vercel.app">
   <img src="https://img.shields.io/badge/Personal%20Website-gray.svg?colorA=655BE1&colorB=E34F26&style=for-the-badge"/>
   </a>&nbsp;&nbsp;
-   <a href=https://www.linkedin.com/in/angel-joel-marcos-castilla-120982215">
+   <a href="https://www.linkedin.com/in/angel-joel-marcos-castilla-120982215">
     <img src="https://img.shields.io/badge/Linkedin-gray.svg?colorA=655BE1&colorB=0A66C2&style=for-the-badge"/>
   </a>&nbsp;&nbsp;
 </p>
